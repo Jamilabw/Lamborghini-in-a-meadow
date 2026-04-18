@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sky{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background-image: url("./assets/background.jpg");
+    background-repeat: no-repeat;
+}
+
+.meadow{
+    height: 90vh;
+    width: 100%;
+    position: relative;
+    background-image: url("assets/trees.png");
+    background-repeat: no-repeat;
+}
+
+.track{
+    height: 10vh;
+    width: 100%;
+    position: relative;
+    background-image: url("assets/track.png");
+    background-repeat: no-repeat;
+}
